@@ -1,7 +1,11 @@
+These are the files from an CD ROM in the MSC interactive physics textbook, These include the main following:
+Installation, introductionary tutorial and an list of simulations on the simulations folder
+
+
 -----------------------------------------------------------------------------------
 Cindy Schwarz, John Ertel, MSC Software
 Interactive Physics Simulations CD-ROM ISBN 0131447459
-Copyright © 2004 Prentice Hall, Inc.
+Copyright Â© 2004 Prentice Hall, Inc.
 
 
 Welcome to the Interactive Physics Workbook Second Edition 
@@ -10,7 +14,7 @@ Simulations CD-ROM by Cindy Schwarz, John Ertel, and MSC Software.
 This CD accompanies the "Interactice Physics Workbook, Second Edition" 
 text by Cindy Schwarz and John Ertel, ISBN 0-13-067108-8
 
-Copyright © 2004 by Prentice Hall, Inc.
+Copyright Â© 2004 by Prentice Hall, Inc.
 A Pearson Company
 Upper Saddle River, NJ 07458
 -----------------------------------------------------------------------------------
@@ -79,7 +83,7 @@ CD-ROM Drive, Monitor (256 colors with 800 x 600 resolution or higher), Mouse
 
 - REQUIRED SOFTWARE
 
-Adobe Acrobat Reader 5.1 © 2002 is required to view and print the
+Adobe Acrobat Reader 5.1 Â© 2002 is required to view and print the
 file IPIntroductoryTutorial.pdf. Adobe Acrobat Reader can be found 
 at http://www.adobe.com
 
@@ -180,7 +184,7 @@ http://www.interactivephysics.com/
 
 or email ip.info@mscsoftware.com
 
-Adobe Acrobat Reader 5.1 © 2002 is required to view and print the
+Adobe Acrobat Reader 5.1 Â© 2002 is required to view and print the
 file IPIntroductoryTutorial.pdf. Adobe Acrobat Reader can be found 
 at http://www.adobe.com
 
